@@ -116,7 +116,7 @@ This project was created as an Android learning project and educational applicat
 
 ## Author
 
-Your Name
+Ataullah Sediqi
 
 ## License
 
