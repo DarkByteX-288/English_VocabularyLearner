@@ -1,6 +1,6 @@
 # English Vocabulary Learner
 
-English Vocabulary Learner is an Android app built in Android Studio using Java. It helps users improve their English vocabulary through category-based word lists, multiple-choice quizzes, pronunciation support, and progress tracking. This project is designed as an offline learning app for students and beginners who want a simple and clean way to practice English words every day.
+English Vocabulary Learner is an Android app built in Android Studio using Java. It helps users improve their English vocabulary through category-based word lists, multiple-choice quizzes, pronunciation support, and progress tracking. This project is designed as an offline learning app for a students and beginners who want a simple and clean way to practice English words every day.
 
 ## Features
 
